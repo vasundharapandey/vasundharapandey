@@ -1,7 +1,7 @@
-### Hi there 👋
-![image](https://github.com/user-attachments/assets/8620ffc8-479a-4855-84fd-92fc9a0a300b)
+<!--### Hi there 👋
 
-<!--
+
+
 **vasundharapandey/vasundharapandey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
